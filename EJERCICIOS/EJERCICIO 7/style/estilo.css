@@ -1,0 +1,48 @@
+/* ESTILO CSS DEL EJERCICIO 7                */
+/* HECHO POR                                 */
+/* ALBERTO MALDONADO TRIANA 1º DAM 2024/25   */
+
+body {
+    font-family: "Courier New", Courier, monospace;
+}
+
+#primer-parrafo {
+    background-color: gray;
+}
+
+h1 {
+    color: black;
+}
+
+h1.especial {
+    color: blue;
+}
+
+h2, h3 {
+    border: 1px solid orange;
+}
+
+ul > li {
+    color: red;
+}
+
+ul ul > li {
+    color: green;
+}
+
+p > img {
+    border: 5px solid black;
+}
+
+img[alt="segunda"] {
+    border: 5px solid red;
+}
+
+
+h3 + p {
+    background-color: pink;
+}
+
+p + h3 {
+    color: blue;
+}
