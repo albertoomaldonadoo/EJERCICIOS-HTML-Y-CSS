@@ -1,3 +1,53 @@
 /* ESTILO CSS DEL EJERCICIO 8                */
 /* HECHO POR                                 */
 /* ALBERTO MALDONADO TRIANA 1º DAM 2024/25   */
+
+body {
+    background-color: #eeeeee; /* Fondo gris claro */
+    color: black;              /* Texto en color negro */
+    text-align: justify;       /* Texto justificado */
+    font-family: sans-serif;   /* Fuente Sans-serif */
+}
+
+h2 {
+    background-color: #888888; /* Fondo gris medio */
+    color: red;                /* Texto en rojo */
+    font-size: 150%;           /* Tamaño de fuente al 150% */
+    text-transform: uppercase; /* Texto en mayúsculas */
+}
+
+
+p {
+    background-color: #cccccc; /* Fondo gris claro */
+    line-height: 150%;         /* Altura de línea al 150% */
+}
+
+.em {
+    color: blue;               /* Color azul */
+    font-style: normal;        /* Fuente en estilo normal */
+    text-decoration: underline;/* Subrayado */
+}
+
+.em2{
+    color: blue;               /* Color azul */
+    font-style: normal;        /* Fuente en estilo normal */
+    text-decoration: underline;/* Subrayado */
+}
+
+.el2{
+    color: green;              
+    font-style: normal;      
+}
+
+.subtitlosaptitudes{
+    background-color: #888888; 
+    color:rgb(148, 68, 148);            /* Texto en magenta */
+    font-size: 130%; 
+}
+
+.el3{
+    color: green;              
+    font-style: normal;      
+}
+
+
